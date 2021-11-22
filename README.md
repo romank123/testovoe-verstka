@@ -6,7 +6,7 @@
     Тестовое задание на верстку страницы
 </h1>
 
-<strong><em>`Задача:`</em></strong> создать минимальное приложение для медитации на нативном js<br>
+<strong><em>`Задача:`</em></strong>Выполнить тестовое с поддержкой IE11<br>
 <strong><em>`Демо:`</em></strong> <a href="https://romank123.github.io/testovoe-verstka/" target="_blank"> romank123.github.io/testovoe-verstka/</a>
 
 ## Технологии:
